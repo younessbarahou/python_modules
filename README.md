@@ -15,7 +15,7 @@ A collection of python exercices with solutions from the (42 Common Core) that t
 <h1> Modules Overview: </h1>
 <ol>
 <li><b>Module 0:</b> </li>
-<p>Concepts Covered in this modules:</p>
+<p>Concepts Covered in this module:</p>
 <ul>
 <li>Variables Declaration</li>
 <li>Functions Declarations
@@ -25,5 +25,19 @@ A collection of python exercices with solutions from the (42 Common Core) that t
 <li>Recursion</li>
 <li>if...else statement + nested</li>
 <li>Mathematical Operations</li>
-<li>Type hints</li>
+<li>Introduction to Type hints</li>
+</ol>
+<ol>
+<li><b>Module 1:</b> </li>
+<p>Concepts Covered in this module:</p>
+<ul>
+<li>class / object</li>
+<li>Inheritance</li>
+<li>Encapsulation</li>
+<li>Polymorphism</li>
+<li>Abstraction</li>
+<li>Nested Classes</li>
+<li>static methods</li>
+<li>class methods</li>
+</ol>
 <ul>
